@@ -1,0 +1,5 @@
+Flask==0.10.1
+requests==2.12.4
+Flask-API
+twyton
+sqlite3
